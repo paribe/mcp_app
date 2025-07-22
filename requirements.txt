@@ -1,0 +1,7 @@
+
+flask
+openai
+wikipedia
+python-dotenv
+streamlit
+aiohttp
